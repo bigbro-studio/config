@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "ads_config": {
-    "enable": false,
+    "enable": true,
     "interval": 60
   },
   "ad_units": {
@@ -61,5 +61,9 @@
         }
       ]
     }
+  },
+  "app_version_config": {
+    "last_version": "1.1",
+    "force_update": false
   }
 }
