@@ -2,7 +2,7 @@
   "version": "1.1",
   "ads_config": {
     "enable": true,
-    "interval": 60
+    "interval": 40
   },
   "ad_units": {
     "open_app": {
