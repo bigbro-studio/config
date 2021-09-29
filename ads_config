@@ -18,6 +18,9 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/3287059304"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -26,6 +29,9 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/2205432990"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -34,6 +40,9 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/9907473821"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -42,6 +51,9 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/9700779636"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -50,6 +62,9 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/7569104573"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     },
@@ -67,6 +82,9 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/2778765174"
+        },
+		{
+          "ad_network": "startio"
         }
       ]
     },
@@ -75,6 +93,9 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/8156242607"
+        },
+        {
+          "ad_network": "startio"
         }
       ]
     }
