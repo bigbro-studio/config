@@ -18,9 +18,6 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/3287059304"
-        },
-        {
-          "ad_network": "startio"
         }
       ]
     },
@@ -29,9 +26,6 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/2205432990"
-        },
-        {
-          "ad_network": "startio"
         }
       ]
     },
@@ -40,9 +34,6 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/9907473821"
-        },
-        {
-          "ad_network": "startio"
         }
       ]
     },
@@ -51,9 +42,6 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/9700779636"
-        },
-        {
-          "ad_network": "startio"
         }
       ]
     },
@@ -62,9 +50,6 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/7569104573"
-        },
-        {
-          "ad_network": "startio"
         }
       ]
     },
@@ -82,9 +67,6 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/2778765174"
-        },
-		{
-          "ad_network": "startio"
         }
       ]
     },
@@ -93,9 +75,6 @@
         {
           "ad_network": "admob",
           "ad_unit": "ca-app-pub-5026270687123701/8156242607"
-        },
-        {
-          "ad_network": "startio"
         }
       ]
     }
@@ -108,7 +87,7 @@
     {
       "app_name": "New Skin Tools",
       "package_name": "com.thstudio.skin.ff.tools.free",
-      "short_des": "We have just added a new pack for Free Fire OB 30 1.65.2 \nProvides many Elite Pass Bundles: Red Criminal, Blue Criminal.... \nTry it free now !.",
+      "short_des": "We have just added a new pack for Free Fire OB 30 1.65.3 \nProvides many Elite Pass Bundles: Red Criminal, Blue Criminal.... \nTry it free now !.",
       "icon": "https://play-lh.googleusercontent.com/1GHeJAPxmVYLCyYIxEy8cg3SOWRevXMtWXAGK-ZCs67aZQtS-zKTjCr3mnRgzAxqp24A=s180-rw",
       "cover": "https://play-lh.googleusercontent.com/2Ys0iQqRgAwXmDssK7secpg9RyTBjWMSszvCVjLeHV5kF9uegh8R-LWcdrFJckVUYII"
     }
