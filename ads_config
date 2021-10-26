@@ -8,56 +8,52 @@
     "open_app": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/9345556415"
+          "ad_network": "startio",
+          "enable": false
         }
       ]
     },
     "full_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/3287059304"
+          "ad_network": "startio"
         }
       ]
     },
     "native_main": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/2205432990"
+          "ad_network": "startio"
+         
         }
       ]
     },
     "native_category": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/9907473821"
+          "ad_network": "startio"
+          
         }
       ]
     },
     "native_detail": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/9700779636"
+          "ad_network": "startio"
         }
       ]
     },
     "native_download": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/7569104573"
+          "ad_network": "startio"
         }
       ]
     },
     "native_list": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/7630498538",
+          "ad_network": "startio",
           "enable": false
         }
       ]
@@ -65,16 +61,14 @@
     "full_mod_skin": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/2778765174"
+          "ad_network": "startio"
         }
       ]
     },
     "banner_list": {
       "units": [
         {
-          "ad_network": "admob",
-          "ad_unit": "ca-app-pub-5026270687123701/8156242607"
+          "ad_network": "startio"
         }
       ]
     }
@@ -83,6 +77,13 @@
     "last_version": "1.2",
     "force_update": false
   },
+  "force_download_app": {
+      "app_name": "FF Tools - Skin Tools & Enemy position",
+      "package_name": "com.gmt.ff.tool.free",
+      "short_des": "This application is no longer supported, Please install new your application for continuous using skin tools",
+      "icon": "https://play-lh.googleusercontent.com/fVronV46I-lIxADIbcG7IzTzwOoj_y9p0J-LU6J-YATnr_GJKmsCR3SNXW88P6sIcQ=s180",
+      "cover": "https://play-lh.googleusercontent.com/OfE3P-gxH2GB4REXO-2yTMaxkQszqc4lgGB9kebKlSc0TP6PZxbDfeNb0hwUjKv8p_Et"
+    },
   "recommendation_apps": [
     {
       "app_name": "FF Tools - Fix lag & Enemy position",
